@@ -5,7 +5,6 @@ function Aviso(props) {
       return (
         <div>
           <h2>Nuevos productos disponibles!</h2>
-          <img className="imgProductos" src={process.env.PUBLIC_URL + '/guia-accesorios-cuidados-para-conejos.jpg'}/>
         </div>
       );
     }
