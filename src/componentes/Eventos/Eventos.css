@@ -1,0 +1,17 @@
+.btn {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #684614;
+    background-color: #fbb540;
+    border-radius: 6px;
+    border: 2px solid #c38325;
+}
+.btn:hover{
+    opacity: 0.6;
+  }
+.imgProductos{
+    width: 50%;
+    border-radius: 5%;
+}
